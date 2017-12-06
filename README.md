@@ -3,6 +3,7 @@ Listen to the sound of the cryptocurrency markets as trading occurs. This progra
 
 # Install and Run
 pip install simpleaudio python-bittrex
+
 python marketmusic.py
 
 # Changing Music Files
